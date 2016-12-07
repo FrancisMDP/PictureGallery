@@ -16,7 +16,7 @@ public class PicList {
     File[] files = f.listFiles(new ImageFileFilter());
     File[] files2 = f2.listFiles(new ImageFileFilter());
 
-
+    //TODO: Make a save image button
     static String[] picName = {
             "Nova imagem...",
             "1",
